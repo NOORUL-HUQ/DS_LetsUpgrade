@@ -1,1 +1,1 @@
-# Datascience_Assignments for LetsUpgrade Course
+# Datascience Assignments - LetsUpgrade Course
